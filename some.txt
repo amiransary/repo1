@@ -1,36 +1,36 @@
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
-start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames && start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 299+ba ufKRYe8ZPaw -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 298+ba X40b9x9BFGo -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
+start yt-dlp -f 137+ba AdzKzlp66sQ -o "%%(title)s.%%(ext)s" --restrict-filenames 
